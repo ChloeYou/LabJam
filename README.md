@@ -1,2 +1,2 @@
 # LabJam
-CPSC304 Term Project
+CPSC304 Term Project with Naitong, Dama and Christina 
